@@ -1,19 +1,9 @@
-//============================================================
-//Copyright 2015, IntraLinks, Inc.  All rights reserved.
-//============================================================
 package com.test;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-
-/**
- * TODO: Class javadoc
- * 
- * @author neoadmin 
- * Created on Aug 4, 2015
- */
 public class TaxCalculator {
 
     final double TAXRATE = 0.25;
